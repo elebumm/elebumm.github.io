@@ -1,0 +1,82 @@
+---
+layout: page
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+{% include header.html %}
+
+           <!-- Page Header -->
+<section class="page_header" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{page.header_image}}'); background-size: cover; background-position: center;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="text-uppercase wow fadeInDown">{{page.title}}</h2>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+            <!-- About -->
+            <section class="about2" style="">
+                <div class="container">
+                    <div class="row wow fadeInUp">
+                        
+                        <div class="col-md-12 text-left" style="padding-top: 0; margin-top: 0;">
+                            <h2 class="text-left" style="margin-top: 0">{{page.heading}}</h2>
+                            <p>{{page.content}}</p>
+                            <a class="btn btn-default" role="button" href="{{page.hyperlink}}">Book Today</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="gallery-content">
+                    <div class="container-fluid">
+                        <div class="row">
+                            {% for image in page.gallery %}
+                            <div class="col-md-3 col-sm-6">
+                                <div class="gallery-item" data-mfp-src="{{image}}">
+                                    <img src="{{image}}" class="img-responsive" alt="">
+                                    <div class="gi-overlay">
+                                        <i class="fa fa-search"></i>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+
+         {% include footer.html %}
+
+    </div> 
+
+    <!-- Javascript -->
+    <script src="/js/vendor/jquery-1.11.2.min.js"></script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
+    <script src="/js/vendor/jquery.flexslider-min.js"></script>
+    <script src="/js/vendor/spectragram.js"></script>
+    <script src="/js/vendor/owl.carousel.min.js"></script>
+    <script src="/js/vendor/velocity.min.js"></script>
+    <script src="/js/vendor/velocity.ui.min.js"></script>
+    <script src="/js/vendor/bootstrap-datepicker.min.js"></script>
+    <script src="/js/vendor/bootstrap-clockpicker.min.js"></script>
+    <script src="/js/vendor/jquery.magnific-popup.min.js"></script>
+    <script src="/js/vendor/isotope.pkgd.min.js"></script>
+    <script src="/js/vendor/slick.min.js"></script>
+    <script src="/js/vendor/wow.min.js"></script>
+    <script src="/js/animation.js"></script>
+    <script src="/js/vendor/vegas/vegas.min.js"></script>
+    <script src="/js/vendor/jquery.mb.YTPlayer.js"></script>
+    <script src="/js/vendor/jquery.stellar.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/vendor/mc/jquery.ketchup.all.min.js"></script>
+    <script src="/js/vendor/mc/main.js"></script>
+
+</body>
+
+</html>

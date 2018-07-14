@@ -1,0 +1,308 @@
+.page-header:after,
+.pricing .popular,
+.pagi_nation li a:hover,
+.pagi_nation li.active a {
+    background-color: #5bb75b;
+}
+
+.primary-color,
+.plan-price,
+.plan-price span,
+.element-tab .nav-tabs > li.active > a,
+.element-tab .nav-tabs > li:hover > a,
+.panel-title.active a,
+.panel-title.active a span,
+article h4 a:hover {
+    color: #5bb75b;
+}
+
+.btn-default,
+.subscribe .btn-default,
+.recipie-content .btn-default {
+    background-color: #5bb75b;
+    border: 1px solid #5bb75b;
+    color: #FFF;
+}
+
+.btn-default:hover {
+    background-color: #5bb75b;
+    color: #FFF;
+}
+
+.btn-default:hover,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open>.dropdown-toggle.btn-default {
+    background-color: #5bb75b;
+    border-color: #5bb75b;
+}
+
+.btn-default.disabled,
+.btn-default[disabled],
+fieldset[disabled] .btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default.disabled:active,
+.btn-default[disabled]:active,
+fieldset[disabled] .btn-default:active,
+.btn-default.disabled.active,
+.btn-default[disabled].active,
+fieldset[disabled] .btn-default.active {
+    background-color: #5bb75b;
+}
+
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:active {
+    color: #5bb75b;
+}
+
+.navbar .cart-number {
+    background: #5bb75b;
+}
+
+.nav .open > a,
+.nav .open > a:hover {
+    color: #5bb75b;
+}
+
+.dropdown-menu li a:hover,
+.dropdown-menu li a:focus,
+.dropdown-menu li a:active {
+    color: #5bb75b;
+}
+
+.cart-content .cart-title {
+    border-top: 2px solid #5bb75b;
+}
+
+.cart-content .cart-items .cart-item .cart-item-desc a:hover {
+    color: #5bb75b;
+}
+
+.footer h1 {
+    color: #5bb75b;
+}
+
+.footer a {
+    color: #5bb75b;
+}
+
+.footer .footer-blog .footer-blog-text:hover {
+    color: #5bb75b;
+}
+
+.footer .footer-social-icons a:hover {
+    background: #5bb75b;
+}
+
+.footer-address .fa {
+    color: #5bb75b;
+}
+
+.special .special-slider .page-header:after {
+    background-color: #5bb75b;
+}
+
+.reservation td .active {
+    background-color: #5bb75b !important;
+}
+
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active:hover:hover,
+.datepicker table tr td.active.disabled:hover,
+.datepicker table tr td.active.disabled:hover:hover,
+.datepicker table tr td.active:focus,
+.datepicker table tr td.active:hover:focus,
+.datepicker table tr td.active.disabled:focus,
+.datepicker table tr td.active.disabled:hover:focus,
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover:active,
+.datepicker table tr td.active.disabled:active,
+.datepicker table tr td.active.disabled:hover:active,
+.datepicker table tr td.active.active,
+.datepicker table tr td.active:hover.active,
+.datepicker table tr td.active.disabled.active,
+.datepicker table tr td.active.disabled:hover.active,
+.open .dropdown-toggle.datepicker table tr td.active,
+.open .dropdown-toggle.datepicker table tr td.active:hover,
+.open .dropdown-toggle.datepicker table tr td.active.disabled,
+.open .dropdown-toggle.datepicker table tr td.active.disabled:hover {
+    background-color: #5bb75b;
+    border-color: #5bb75b;
+}
+
+.datepicker table tr td span.active:hover,
+.datepicker table tr td span.active:hover:hover,
+.datepicker table tr td span.active.disabled:hover,
+.datepicker table tr td span.active.disabled:hover:hover,
+.datepicker table tr td span.active:focus,
+.datepicker table tr td span.active:hover:focus,
+.datepicker table tr td span.active.disabled:focus,
+.datepicker table tr td span.active.disabled:hover:focus,
+.datepicker table tr td span.active:active,
+.datepicker table tr td span.active:hover:active,
+.datepicker table tr td span.active.disabled:active,
+.datepicker table tr td span.active.disabled:hover:active,
+.datepicker table tr td span.active.active,
+.datepicker table tr td span.active:hover.active,
+.datepicker table tr td span.active.disabled.active,
+.datepicker table tr td span.active.disabled:hover.active,
+.open .dropdown-toggle.datepicker table tr td span.active,
+.open .dropdown-toggle.datepicker table tr td span.active:hover,
+.open .dropdown-toggle.datepicker table tr td span.active.disabled,
+.open .dropdown-toggle.datepicker table tr td span.active.disabled:hover {
+    background-color: #5bb75b;
+    border-color: #5bb75b;
+}
+
+.clockpicker-tick.active,
+.clockpicker-tick:hover {
+    background-color: #5bb75b;
+}
+
+.clockpicker-canvas-bg {
+    fill: #5bb75b;
+}
+
+.clockpicker-canvas line {
+    stroke: #5bb75b;
+}
+
+.features .features-tile .features-content .page-header:after {
+    background-color: #5bb75b;
+}
+
+.menu-tags .tagsort-active,
+.menu-tags2 .tagsort2-active,
+.menu-tags3 .tagsort3-active,
+.menu-tags4 .tagsort4-active {
+    border-bottom: 3px solid #5bb75b;
+}
+
+.menu .food-menu .menu-item-active {
+    border-left: 3px solid #5bb75b;
+}
+
+.subscribe input {
+    border: 2px solid #5bb75b !important;
+}
+
+.services-slider .slick-dots li.slick-active button {
+    border: solid 2px #5bb75b;
+}
+
+.services-slider .slick-dots li.slick-active button:before {
+    background: #5bb75b;
+}
+
+.menu-more,
+.menu-more:hover {
+    background-color: #5bb75b;
+}
+
+.contact-social a:hover {
+    background: #5bb75b;
+}
+
+.featured-recipies .slick-dots li.slick-active button {
+    background-color: #5bb75b;
+}
+
+.directions-list > li:before {
+    background-color: #5bb75b;
+}
+
+.ingredients {
+    border-top: 1px solid #5bb75b;
+}
+
+.progressbar > span {
+    background-color: #5bb75b;
+}
+
+.post-format {
+    background: #5bb75b none repeat scroll 0% 0%;
+}
+
+.pagi_nation li a {
+    border: 2px solid #5bb75b;
+}
+
+.search button {
+    background: #5bb75b;
+}
+
+.side-cat li a:hover {
+    color: #5bb75b;
+}
+
+.rp-info a:hover {
+    color: #5bb75b;
+}
+
+.comments-area .comment .comment-info a {
+    color: #5bb75b;
+}
+
+.shop-cat li a:hover {
+    color: #5bb75b;
+}
+
+.product-info h4 a:hover {
+    color: #5bb75b;
+}
+
+.rpp-info a:hover {
+    color: #5bb75b;
+}
+
+.cart-table tbody tr td a:hover {
+    color: #5bb75b;
+}
+
+.coupon button {
+    color: #5bb75b;
+}
+
+.coupon button:hover {
+    background: #5bb75b;
+}
+
+.ma-address a {
+    color: #5bb75b;
+}
+
+.single-shop-carousel-nav .slick-next {
+    background: #5bb75b;
+}
+
+.single-shop-carousel-nav .slick-prev {
+    background: #5bb75b;
+}
+
+.team-social li a:hover {
+    color: #5bb75b;
+}
+
+.menu .food-menu .menu-item:hover,
+.menu .food-menu .menu-item3:hover {
+    border-left: 3px solid #5bb75b;
+}
+
+.blog-slider .slick-dots li.slick-active button {
+    background-color: #5bb75b;
+}
+
+#OT_searchWrapper select option:hover {
+    background: #5bb75b;
+}
+
