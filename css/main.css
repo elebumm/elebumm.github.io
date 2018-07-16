@@ -4427,3 +4427,6 @@ textarea {
     position: relative;
 }
 
+.footer-address p {
+    color: white;
+}
