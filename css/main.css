@@ -4427,6 +4427,6 @@ textarea {
     position: relative;
 }
 
-.footer-address p {
+#intro2 > div.body > div > section.footer > div.container > div > div.col-md-4.col-sm-6 > div.footer-address p {
     color: white;
 }
