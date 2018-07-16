@@ -615,10 +615,10 @@ $(function() {
     $(window).scroll(function() {
         var value = $(this).scrollTop();
         if (value > 350)
-            $(".navbar-fixed-top").css("background", "rgba(0, 0, 0, 0.9)");
+            $(".navbar-fixed-top").css("background", "#363636 !important;");
 
         else
-            $(".navbar-fixed-top").css("background", "rgba(0, 0, 0, 0.3)");
+        $(".navbar-fixed-top").css("background", "#363636 !important;");
 
     });
 

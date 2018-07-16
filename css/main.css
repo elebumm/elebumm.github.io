@@ -394,7 +394,7 @@ fieldset[disabled] .btn-default.active {
    ================================================ */
 
 .navbar {
-    background-color: rgba(0, 0, 0, 0.33);
+    /* background-color: rgba(0, 0, 0, 0.33); */
     color: #FFF;
     z-index: 50;
     margin: 0;
@@ -4265,7 +4265,7 @@ article.blog-mason-item p {
 }
 
 .no-bg {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.2);
 }
 
 .main-wrapper {
