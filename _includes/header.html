@@ -54,10 +54,17 @@
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="#about">About Smackwater Jacks Tours</a></li>
-                            <li><a href="#tours">Our Tours</a></li>
-                            <li><a href="#faq">FAQ</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                            <li><a href="/#about">About Smackwater Jacks Tours</a></li>
+                            <li class="dropdown">
+                                    <a href="/#tours" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tours<span class="caret"></span></a>
+                                    <ul class="dropdown-menu" style="display: none;">
+                                        {% for tour in site.tours %}
+                                        <li><a href="{{tour.url}}">{{tour.title}}</a></li>
+                                        {% endfor %}
+                                    </ul>
+                                </li>
+                            <li><a href="/#faq">FAQ</a></li>
+                            <li><a href="/#contact">Contact</a></li>
                             <li><a href="https://checkout.xola.com/index.html#seller/597f314a332e75f1708b4568?openExternal=true">BOOK NOW</a></li>
                         
                         </ul>
