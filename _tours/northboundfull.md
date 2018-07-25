@@ -59,6 +59,6 @@ Friday, Saturday, Sunday $149 per person + Taxes + Gratuity + Add Ons
 </p>
  
 
-All prices are in CAD and subject to applicable taxes.
+**Starting at $129 CAD / person**
 
 *Venues and prices are subject to change.

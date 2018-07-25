@@ -61,7 +61,6 @@ CHOOSE 3 OF THE FOLLOWING:
     <span><i class="fa fa-circle"></i> Dinner at Smackwater Jacks</span>
 </p>
  
-
-All prices are in CAD and subject to applicable taxes.
+**Starting at $89 CAD / person**
 
 *Venues and prices are subject to change.

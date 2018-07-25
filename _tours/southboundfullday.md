@@ -46,6 +46,6 @@ Tours Include:
     <span><i class="fa fa-circle"></i> Lunch</span>
 </p>
 
-All prices are in CAD and subject to applicable taxes.
+**Starting at $129 CAD / person**
 
 *Venues and prices are subject to change.

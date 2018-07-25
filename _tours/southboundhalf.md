@@ -15,7 +15,7 @@ tags:
     - signature
 ---
 
-Explore the south route into Lambton County along the picturesque coast of Lake Huron. Sample wines from local wineries and visit local attractions such as Forest Glen Herb Farm.
+Explore Lambton Shores along the picturesque coast of Lake Huron. Sample wines, ciders, beer and more in this new and upcoming region. 
 
 Choose 3 of the following:
 <p class="list no-padding">
@@ -23,6 +23,7 @@ Choose 3 of the following:
 <span><i class="fa fa-angle-right"></i> Alton Farms Estate Winery</span>
 <span><i class="fa fa-angle-right"></i> Forest Glen Herb Farm</span>
 <span><i class="fa fa-angle-right"></i> Stonepicker Brewing Co. (Coming Soon)</span>
+<span><i class="fa fa-angle-right"></i> Widder Station (Coming Soon)</span>
 <span><i class="fa fa-angle-right"></i> Cachi Axe Throwing</span>
 <span><i class="fa fa-angle-right"></i> Bad Apple Brewing</span>
 </p>
@@ -38,7 +39,7 @@ Choose 3 of the following:
 
 Tours Include:
 <p class="list list-circle no-padding">
-    <span><i class="fa fa-circle"></i> Fun and informative tour guide</span>
+    <span><i class="fa fa-circle"></i> Fun and informative tour guide in a Smackwater Jacks Tour Vehicle</span>
     <span><i class="fa fa-circle"></i> Venue fees/Tasting Fees</span>
     <span><i class="fa fa-circle"></i> Luxury transportation</span>
     <span><i class="fa fa-circle"></i> Complimentary pick up and drop off at Smackwater Jacks</span>
@@ -48,12 +49,12 @@ Tours Include:
 
 <p class="list list-circle no-padding">
     <span><i class="fa fa-circle"></i>Applicable taxes</span>
-    <span><i class="fa fa-circle"></i> Tour guide gratuities</span>
+    <span><i class="fa fa-circle"></i> Tour guide and tasting gratuities</span>
     <span><i class="fa fa-circle"></i> Optional add-on upgrade fees</span>
     <span><i class="fa fa-circle"></i> Custom pick up/drop off (additional fees apply)</span>
     <span><i class="fa fa-circle"></i> Lunch</span>
 </p>
 
-All prices are in CAD and subject to applicable taxes.
+**Starting at $89 CAD / person**
 
 *Venues and prices are subject to change.
